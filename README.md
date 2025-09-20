@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ibrahim Zaidi</h1>
 <h3 align="center">A Full-Stack Web Developer from Algeirs, Algeria</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Java**
+
 
 - 📫 How to reach me **ibrahim.zaidi@univ-alger.dz**
 
