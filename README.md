@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ibrahim Zaidi</h1>
-<h3 align="center">A Third Year Computer Systems Student and a Full-Stack Web Developer from Algeirs, Algeria</h3>
+<h3 align="center">A Third Year Computer Systems Student (SI) and a Full-Stack Web Developer from Algeirs, Algeria</h3>
 
 
 
