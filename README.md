@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Zaidi Ibrahim Younes, a Full-Stack Web Developer and a third year Computer Systems student(SI)</p>
+<h5 align="left">My name is Zaidi Ibrahim Younes, a Full-Stack Web Developer and a third year Computer Systems student(SI)</h5>
 
 ###
 
