@@ -1,4 +1,4 @@
-<h1 align="left">Hi Coding Pal, what's up ?</h1>
+<h1 align="left">Hi ...</h1>
 
 ###
 
