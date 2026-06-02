@@ -20,7 +20,7 @@
   <a href="mailto:ibrahim.zaidi@univ-alger@dz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://medium.com/@zaidibrahim2003" target="_blank">
+  <a href="https://medium.com/@zaidiibrahim" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
